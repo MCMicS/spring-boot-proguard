@@ -1,0 +1,2 @@
+mvn -X -U -B -V clean package
+mvn -X -U -B -V -P proguard clean package
